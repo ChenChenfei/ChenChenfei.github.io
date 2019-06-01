@@ -47,7 +47,7 @@
 ---
 
 购买链接：
-[www.baidu.com]
+[https://kkflash.con]
 
 好好享受吧！
 
