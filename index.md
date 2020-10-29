@@ -7,15 +7,15 @@
 
 
 ## 目前的兴趣所在
-### 1. JAVA的继续学习（我爱死JAVA了） 
+* JAVA的继续学习（我爱死JAVA了） 
 
-https://github.com/ChenChenfei/JavaGuide
+[大佬整理的学习指导书](https://github.com/ChenChenfei/JavaGuide)
 
-### 2. 基于树莓派的魔镜的制作和功能拓展 
+* 基于树莓派的魔镜的制作和功能拓展 
 
-无线屏幕扩展 https://github.com/homeworkc/lazycast
+[无线屏幕扩展](https://github.com/homeworkc/lazycast)
 
-### 3.安卓逆向工程的学习
+* 安卓逆向工程的学习
 
 目前还在smeli语言中苦苦挣扎
 
@@ -24,8 +24,8 @@ https://github.com/ChenChenfei/JavaGuide
 ## 个人工具集系列
 这些就是我自己瞎捣鼓的一下小工具了，很简陋。资源的话近期应该会更新上来
 
-### 星光班自动签到脚本
+* 星光班自动签到脚本
 
-### 基于树莓派的无线屏幕扩展
+* 基于树莓派的无线屏幕扩展
 
-### 安卓逆向的心得与体会
+* 安卓逆向的心得与体会
