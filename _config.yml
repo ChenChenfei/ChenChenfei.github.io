@@ -76,8 +76,7 @@ ga_domain: auto           # 默认的是 auto, 这里我是自定义了的域名
 # Code hub settings
 codehub: # 代码仓库
   - title: Github
-    url: https://github.com/oukohou
-
+    url: https://github.com/ChenChenfei
 
 valine:
   enable: true
