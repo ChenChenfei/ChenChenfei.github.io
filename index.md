@@ -3,7 +3,7 @@
 ## 简介
 这里是来自天津理工大学通信工程的一名普通学生，平常喜欢自己捣鼓点东西，正在拓宽自己的知识面中，没有进行深度上的拓展。
 
-这是我的邮箱： 843494245@qq.com
+这是我的邮箱： 843494245@qq.com(https://github.com/ChenChenfei/ChenChenfei.github.io/edit/master/test.md)
 
 
 ## 目前的兴趣所在
