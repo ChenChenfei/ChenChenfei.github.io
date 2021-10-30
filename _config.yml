@@ -1,1 +1,92 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: oukohou
+subtitle: [ 璇珠杂俎]
+keywords: oukohou
+description: 摸鱼的外乡人
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chenchenfei.github.io/" # 你的域名
+page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
+beian: # "备案号"
+author: oukohou
+email: oukohou@outlook.com
+
+# Build settings
+permalink: /:year/:month/:day/:title/
+exclude: ["README.md", "changelog.md", "server", "tools", "Pipfile"]
+plugins:
+  - jekyll-paginate
+  - jemoji
+
+
+# always get github's error email saying redcarpet is not supported,
+# so change it to kramdown.
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+
+# Pageinate settings
+paginate: 8 # 分页大小
+paginate_path: "page/:num/"
+
+# Search settings
+baidu_search: true
+google_search: # true
+
+# Menu settings
+menu:
+  - page: 首页
+    directory: .
+    icon: icon-home
+  - page: 归档
+    directory: archives/
+    icon: icon-archive
+  - page: 标签
+    directory: tags/
+    icon: icon-tags
+  - page: 留言
+    directory: guestbook/
+    icon: icon-guestbook
+  - page: 关于
+    directory: about/
+    icon: icon-about
+#  - page: 订阅
+#    directory: feed.xml
+#    icon: icon-rss
+
+# Link settings
+links: # 友情链接
+
+  - title: ccslience's blog
+    url: http://ccslience.oukohou.wang/
+  - title: oukohou's github
+    url: https://github.com/oukohou
+#  - title:
+#    url: http://jekyllcn.com/
+  - title: Jekyll blog system
+    url: http://jekyllcn.com/
+
+
+# Google Analytics
+ga_track_id: 'UA-130856615-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto           # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+
+
+# Code hub settings
+codehub: # 代码仓库
+  - title: Github
+    url: https://github.com/oukohou
+
+
+valine:
+  enable: true
+  app_id:  K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz
+  app_key: AAsHbwVm8ofKFJ6ghGqqrXSU
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  visitor: true
+  avatar: retro
+  placeholder: say something~~\n - 昵称 为你所要显示的评论的ID；\n - 邮箱 只有后台可见，仅供讨论过程中是否需要交流邮件而设置，请放心填写;\n - 网址 为你的评论的昵称的超链接。\n当然，以上都可以不写，评论依然会显示……
+  guest_info: nick,mail,link
+  pageSize: 10
