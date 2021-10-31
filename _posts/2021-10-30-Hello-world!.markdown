@@ -21,5 +21,5 @@ print_hi("I'm oukohou")
 {% endhighlight %}
 
 regards.
-<h4 align = "right">oukohou.</h4>
+<h4 align = "right">Snow丶Strom.</h4>
 
