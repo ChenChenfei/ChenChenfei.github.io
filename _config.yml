@@ -1,14 +1,14 @@
 # Site settings
-title: oukohou
-subtitle: [ 璇珠杂俎]
-keywords: oukohou
+title: Snow丶Storm的博客
+subtitle: 你也是来摸鱼的吗
+keywords: Snow丶Storm
 description: 摸鱼的外乡人
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chenchenfei.github.io/" # 你的域名
-page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
+page_no_title: "忘记更新标题啦，混蛋！" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: oukohou
-email: oukohou@outlook.com
+author: Snow丶Storm
+email: ccf843494245@126.com
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -58,8 +58,8 @@ menu:
 # Link settings
 links: # 友情链接
 
-  - title: ccslience's blog
-    url: http://ccslience.oukohou.wang/
+#  - title: ccslience's blog
+#    url: http://ccslience.oukohou.wang/
   - title: oukohou's github
     url: https://github.com/oukohou
 #  - title:
