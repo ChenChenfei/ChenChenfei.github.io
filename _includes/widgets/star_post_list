@@ -1,5 +1,5 @@
 <div class="widget">
-    <div class="widget-title"><i class="icon-star"> 推荐文章</i></div>
+    <div class="widget-title"><i class="icon-star"> 原作者的推荐文章</i></div>
     <ul class="post-list">
         <li class="post-list-item"><a class="post-list-link" href="https://www.oukohou.wang/2018/10/11/S3FD-Single-Shot-Scale-invariant-Face-Detector/">S3FD:Single Shot Scale-invariant Face Detector</a></li>
     </ul>
