@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  2021-11-15-游戏想法
-tags:   
+tags:   游戏
 date:   2021-11-15 01:19:03
 categories: [灵光一闪] 
 ---
