@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verilog学习笔记（一）—— 逻辑门
+title: 2022-01-29-Verilog学习笔记（一）—— 逻辑门
 tags: Verilog 
 date:    2022-01-29 
 categories: [学习] 
